@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+ini filena, OKE
+=======
 ini file milamila
+>>>>>>> c80aad2e691d4667e2b19dfcea4daf469f198b0c
